@@ -9,3 +9,4 @@ class Ground {
         board.fillRect(0, 0, this.width, this.height);
     }
 }
+ 
